@@ -17,7 +17,6 @@ YouTube clone Using React.js
 - HTML
 - CSS
 - JavaScript
-- Tailwind css
 - React.js
 - MUI
 - Rapid API
@@ -27,7 +26,6 @@ YouTube clone Using React.js
 - Modern UI/UX
 - Semantic HTML5 markup
 - CSS flexbox
-- CSS Grid
 - Responsive design
 - React component methodology
 - Using Refs and Context Api
