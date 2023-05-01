@@ -18,6 +18,7 @@ YouTube clone Using React.js
 - CSS
 - JavaScript
 - React.js
+- React Router
 - MUI
 - Rapid API
 
