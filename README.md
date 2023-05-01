@@ -6,11 +6,11 @@ YouTube clone Using React.js
 
 ### Screenshot
 
-![](./src/assets/screenshot.png)
+![](./public/screenshot.png)
 
 ### Links
 
-- [Live Site URL](https://yossef-hoobank.netlify.app/)
+- [Live Site URL](https://yossef-youtube.netlify.app/)
 
 ### Built with
 
