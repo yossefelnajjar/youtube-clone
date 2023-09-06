@@ -58,4 +58,3 @@ The app will be available at `http://localhost:3000/`.
 
 We welcome any feedback or contributions to improve this YouTube Clone project. If you encounter issues or have ideas for enhancements, please submit them through the GitHub repository's issue tracker.
 
-Thank you for checking out our YouTube Clone project! We hope you enjoy using it and find it informative for your React.js development journey.
